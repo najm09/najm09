@@ -1,6 +1,6 @@
 
-# Hi, I am Fakhra Najm 👋
-- ## 🔭 I'm a web developer
+<!-- # Hi, I am Fakhra Najm 👋 -->
+<!-- - ## 🔭 I'm a web developer -->
 <!-- - ## 👯 Looking to collaborate on an open source project... -->
 <!-- - ## 📫 How to reach me: fnajm09@gmail.com -->
 
